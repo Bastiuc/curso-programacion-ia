@@ -17,5 +17,7 @@ Durante este curso aprenderé:
 - Inteligencia artificial aplicada al desarrollo
 
 
+## Objetivo del proyecto
 
+Aprender y aplicar conceptos de desarrollo de software moderno, integrando herramientas de inteligencia artificial durante el proceso de desarrollo.
 
