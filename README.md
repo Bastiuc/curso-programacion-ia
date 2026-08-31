@@ -21,3 +21,7 @@ Durante este curso aprenderé:
 
 Aprender y aplicar conceptos de desarrollo de software moderno, integrando herramientas de inteligencia artificial durante el proceso de desarrollo.
 
+
+
+## Metodología de trabajo
+El proyecto se desarrollará utilizando ramas, commits pequeños, Pull Requests y revisión de cambios antes de integrarlos a main.
